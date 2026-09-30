@@ -49,7 +49,7 @@
 
 ## 5. Matriz de Trazabilidad con GitHub
 
-* **Issue Vinculado:** [#3 - [QA-03] Protocolo de Pruebas de Usabilidad y Validación Cruzada](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/3)
+* **Issue Vinculado:** [#7 - [QA] Pruebas de Usabilidad, Evaluación Cruzada y Mejora Antes/Después](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/7)
 * **Rama de Trabajo:** `feature/carlos-evaluacion-iteracion`
-* **Pull Request de Integración:** [PR #8 - [PR-04] Protocolo de Pruebas de Usabilidad, Evaluación Cruzada e Iteración](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/8)
+* **Pull Request de Integración:** [PR #3 - [PR-03] Protocolo de Pruebas de Usabilidad, Evaluación Cruzada e Iteración](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/3)
 * **Revisor y Aprobador:** Melany Saleth Cevallos Goyes (`@SalyC15`)
