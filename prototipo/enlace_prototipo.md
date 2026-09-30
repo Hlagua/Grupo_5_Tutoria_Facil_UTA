@@ -2,8 +2,8 @@
 
 ## 1. Enlace Oficial del Prototipo en Figma
 
-* **Enlace de Visualización Interactiva (Figma Design):**
-  [Prototipo Interactivo Figma - Tutoría Fácil UTA](https://www.figma.com/design/Grupo5TutoriaFacilUTA/Tutoria-Facil-UTA-Prototipo-IHC)
+* **Enlace de Visualización Interactiva (Figma Prototype):**
+  [Prototipo Interactivo Figma - Tutoría Fácil UTA](https://elf-saint-60500649.figma.site/)
 * **Permisos:** Acceso de lectura / visualización pública habilitado para el docente evaluador y revisores.
 
 ---

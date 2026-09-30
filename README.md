@@ -29,7 +29,7 @@ La Facultad de Ingeniería en Sistemas, Electrónica e Industrial (FISEI) coordi
 
 ## 3. Enlaces Oficiales del Proyecto
 
-* **Prototipo Interactivo en Figma:** [Ver Prototipo Navegable en Figma](https://www.figma.com/design/Grupo5TutoriaFacilUTA/Tutoria-Facil-UTA-Prototipo-IHC) (Permisos de vista habilitados para evaluación docente).
+* **Prototipo Interactivo en Figma:** [Ver Prototipo Navegable en Figma](https://elf-saint-60500649.figma.site/) (Permisos de vista habilitados para evaluación docente).
 * **Documentación Técnica Integral (PDFs):** Disponibles en la carpeta [`docs/`](docs/).
 * **Evidencia de Trabajo Grupal (PDF para Moodle):** [`Evidencia_GitHub_Grupo.pdf`](Evidencia_GitHub_Grupo.pdf).
 
